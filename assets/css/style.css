@@ -71,7 +71,7 @@ section {
 .section-heading {
   font-size: 3rem;
   font-weight: 700;
-  background: linear-gradient(-45deg, #3db3c5, #274685);
+  background: linear-gradient(to right, rgba(73, 16, 206, 0.8) 0%, rgba(214, 19, 240, 0.8) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -122,7 +122,7 @@ section {
 }
 .btn.btn-primary {
   background: #2d71a1;
-  background: linear-gradient(-45deg, #1391a5, #274685);
+  background: linear-gradient(to right, rgba(73, 16, 206, 0.8) 0%, rgba(214, 19, 240, 0.8) 100%);
   color: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
 }
@@ -141,7 +141,7 @@ section {
   justify-content: center;
 }
 .feature-1 .wrap-icon.icon-1 {
-  background: linear-gradient(-45deg, #3b87bd, #2d71a2);
+  background: linear-gradient(to right, rgba(73, 16, 206, 0.8) 0%, rgba(214, 19, 240, 0.8) 100%);
 }
 .feature-1 .wrap-icon i {
   font-size: 40px;
@@ -162,7 +162,7 @@ section {
   padding: 40px;
 }
 .step .number {
-  background: linear-gradient(-45deg, #1391a5, #274685);
+  background: linear-gradient(to right, rgba(73, 16, 206, 0.8) 0%, rgba(214, 19, 240, 0.8) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 700;
@@ -213,7 +213,7 @@ section {
 /* Pricing */
 .pricing {
   padding: 50px;
-  background: linear-gradient(-45deg, #1391a5, #274685);
+  background: linear-gradient(to right, rgba(73, 16, 206, 0.8) 0%, rgba(214, 19, 240, 0.8) 100%);
   color: #fff;
   padding-bottom: 12rem !important;
   position: relative;
@@ -265,7 +265,7 @@ section {
   background: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.2);
   color: #000000;
-  background: linear-gradient(-45deg, #1391a5, #274685);
+  background: linear-gradient(to right, rgba(73, 16, 206, 0.8) 0%, rgba(214, 19, 240, 0.8) 100%);
   color: #fff;
   box-shadow: none;
 }
